@@ -3,3 +3,4 @@ trackball-sensor/fp-info-cache
 trackball-sensor/~trackball-sensor.kicad_pcb.lck
 trackball-sensor/jlcpcb
 trackball-sensor/production
+*.FCBak
