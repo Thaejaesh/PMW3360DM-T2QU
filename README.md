@@ -17,6 +17,7 @@ High-quality pointing for your keyboard projects.
 | 1x  | SM06B-SRSS-TB(LF)(SN)       | JST SH 6P Connector   |
 | 2x  | M3 Brass Inserts            |                       |
 | 3x  | 3mmx6mmx2.5mm Ball Bearings |                       |
+| 3x  | M3x12 Bolts                 |                       |
 | 1x  | Top carrier                 | Available in `models` |
 | 1x  | Base carrier                | Available in `models` |
 
