@@ -3,7 +3,7 @@ High-quality pointing for your keyboard projects.
 
 ![trackball-sensor](https://github.com/user-attachments/assets/a614bd8f-cb66-4077-88a3-3ccd714ce6c2)
 
-## Build of materials
+## Bill of materials
 ![image](https://github.com/user-attachments/assets/589fd4db-5201-4174-a45f-515aba4d407c)
 
 | Qty | Item                     | Description           |
@@ -16,3 +16,6 @@ High-quality pointing for your keyboard projects.
 | 1x  | TLV74318PDBVR            | LDO Voltage Regulator |
 | 1x  | SM06B-SRSS-TB(LF)(SN)    | JST SH 6P Connector   |
 
+### Assembly
+
+This board contains small components. While hand soldering is possible, I highly recommend a PCBA service. Gerbers, BOM, and CPL are all available in the Releases section. Choose to assemble the bottom of the PCB, and note that the sensor is intentionally omitted for both cost savings and the convenience of soldering at home.
