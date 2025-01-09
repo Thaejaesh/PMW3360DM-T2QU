@@ -214,7 +214,7 @@
 		(path "/3ba40bd6-a8e4-4954-97b1-2187aec0e446")
 		(sheetname "Root")
 		(sheetfile "trackball-sensor.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -330,7 +330,7 @@
 		(path "/0beb2523-bac8-4325-b66a-509beb9578d4")
 		(sheetname "Root")
 		(sheetfile "trackball-sensor.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -899,7 +899,7 @@
 		(path "/e2f866e6-be09-4987-99a8-72019ef76582")
 		(sheetname "Root")
 		(sheetfile "trackball-sensor.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -2304,7 +2304,7 @@
 		(path "/8b98eee9-d6a9-4de7-a4e2-bf6f3584484b")
 		(sheetname "Root")
 		(sheetfile "trackball-sensor.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -8.468 -5.35)
 			(end -7.168 -5.35)
@@ -3035,6 +3035,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C160405"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "2d3071f7-55cb-414b-abe2-1e88e52a6dc8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
